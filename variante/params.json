@@ -1,0 +1,7 @@
+{
+  "slug": "ProvaETI",
+  "EXAM_DIR": "exams/dummy-exam",
+  "PREFIXO": "Devs",
+  "RAZAO_PREFERENCIAL": 3,
+  "PORTA_API": 9203
+}
