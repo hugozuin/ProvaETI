@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "ProvaETI",
+  "repo_url": "https://github.com/hugozuin/ProvaETI",
+  "exam_dir": "exams/dummy-exam",
+  "track": "dummy-hello-world",
+  "issue": 1,
+  "issue_url": "https://github.com/hugozuin/ProvaETI/issues/1",
+  "gerado_em": "2026-10-08T00:18:30+00:00",
+  "fechada_em": "2026-10-08T00:18:08Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "hugozuin",
+    "ra": "23000248",
+    "nome": "Hugo Zuin"
+  },
+  "variante": {
+    "slug": "ProvaETI",
+    "EXAM_DIR": "exams/dummy-exam",
+    "PREFIXO": "Devs",
+    "RAZAO_PREFERENCIAL": 3,
+    "PORTA_API": 9203
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:31:12Z",
+    "ultimo_push": "2026-10-07T21:03:05-03:00"
+  },
+  "commits": {
+    "total": 5,
+    "autores": [
+      "Hugo Zuin"
+    ],
+    "primeiro": "2026-10-07T19:21:22-03:00",
+    "ultimo": "2026-10-07T21:03:05-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 30
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 2
+  }
+}
