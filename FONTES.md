@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| 1 | https://github.com/endersonmenezes/talks/tree/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd | Exemplos de arquivos | todos os entregaveis, consultando para ter uma bse de estrutura dos arquivos|
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| 1 | https://claude.ai/share/a3cf95f0-933f-4699-9c8a-7207fb0067af | spec.md |
+| 1 | https://claude.ai/share/a3cf95f0-933f-4699-9c8a-7207fb0067af | todos os entregáveis |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
